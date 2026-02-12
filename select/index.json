@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "さよならだけが人生だ",
+  "base_artist": "伊東歌詞太郎",
+  "createdAt": "2026-02-12T06:45:01.899472Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さよならだけが人生だ (piano arranged ver.)",
+      "artist": "零",
+      "has_synced": true,
+      "path": "select/01_さよならだけが人生だ_(piano_arranged_ver.)_零.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さよならだけが人生だ",
+      "artist": "伊東歌詞太郎",
+      "has_synced": false,
+      "path": "select/pl_01_さよならだけが人生だ_伊東歌詞太郎.txt"
+    }
+  ]
+}
